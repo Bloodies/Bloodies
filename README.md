@@ -2,7 +2,8 @@
      Hi there, I'm Elizar (aka Bloodies) 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
 </h2>
 
-## Stats
+## 🛠 &nbsp;Tech stack
+
 <div align="left">
   <a href="https://github.com/Bloodies">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bloodies&show_icons=true&bg_color=-20,0D1117,002137&title_color=FFFFFF&text_color=FFFFFF&icon_color=79ff97&count_private=true&include_all_commits=true&disable_animations=false">
