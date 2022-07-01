@@ -1,5 +1,5 @@
 <h2>
-    Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
+     Hello, I'm Bloodies! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
 </h2>
 
 ## Stats
