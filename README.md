@@ -2,7 +2,7 @@
      Hi there, I'm Elizar (aka Bloodies) 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
 </h2>
 
-## 🛠 &nbsp;Tech stack
+## <!-- 🛠 &nbsp; -->Tech stack
 
 <div align="left">
   <a href="https://github.com/Bloodies">
