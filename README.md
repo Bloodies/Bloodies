@@ -1,5 +1,5 @@
 <h2>
-     Hello, I'm Bloodies! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
+     Hi there, I'm Elizar (aka Bloodies) 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
 </h2>
 
 ## Stats
