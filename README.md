@@ -5,8 +5,8 @@
 ## Stats
 <div align="left">
   <a href="https://github.com/Bloodies">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bloodies&show_icons=true&bg_color=30,0D1117,907578&title_color=FFFFFF&text_color=FFFFFF&icon_color=79ff97&count_private=true&include_all_commits=true&disable_animations=false">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodies&show_icons=true&bg_color=30,907578,0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bloodies&show_icons=true&bg_color=-20,0D1117,907578&title_color=FFFFFF&text_color=FFFFFF&icon_color=79ff97&count_private=true&include_all_commits=true&disable_animations=false">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodies&show_icons=true&bg_color=20,907578,0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&layout=compact"/>
     <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bloodies&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true&disable_animations=false">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodies&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&disable_animations=false&layout=compact"/>
