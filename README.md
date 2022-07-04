@@ -1,5 +1,5 @@
 <h2>
-     Hi there, I'm Elizar (aka Bloodies) 👋🏻 <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
+     Hi there, I'm Elizar (aka Bloodies) <img width="30px" height="30" src="https://github.com/Bloodies/Bloodies/blob/Bloodies/resources/Hi.gif" /> <img align="right" src="https://gpvc.arturio.dev/Bloodies" alt="Profile views">
 </h2>
 
 ## <!-- 🛠 &nbsp; -->Tech stack
@@ -17,12 +17,12 @@
           <summary>More info</summary>
           <a align="center" href="https://github.com/Bloodies">
                <img src="https://activity-graph.herokuapp.com/graph?username=Bloodies&hide_title=true&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=79FF97&bg_color=0D1117&area=true&theme=graywhite">
+               <!-- <img align="center" src="https://novatorem-kyzbk7wxl-6877sqkj18nrgl96aonlyuwll.vercel.app/api/spotify"> -->
           </a>
-          <p align="center">
-               <img src="https://github.com/Bloodies/Bloodies/blob/output/github-contribution-grid-snake.svg" alt="snake">
-          </p>
      </details>
 </h2>
+
+<!-- [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu) -->
 
 <!--
 **Bloodies/Bloodies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
