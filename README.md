@@ -16,7 +16,7 @@
      <details>
           <summary>More info</summary>
           <a align="center" href="https://github.com/Bloodies">
-               <img src="https://activity-graph.herokuapp.com/graph?username=Bloodies&hide_title=true&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=79FF97&bg_color=0D1117&area=true&theme=graywhite">
+               <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Bloodies&hide_title=true&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=79FF97&bg_color=0D1117&area=true&theme=graywhite">
                <!-- <img align="center" src="https://novatorem-kyzbk7wxl-6877sqkj18nrgl96aonlyuwll.vercel.app/api/spotify"> -->
           </a>
      </details>
