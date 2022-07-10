@@ -12,15 +12,33 @@
      </a>
 </div>
 
-<h2>
-     <details>
-          <summary>More info</summary>
-          <a align="center" href="https://github.com/Bloodies">
-               <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Bloodies&hide_title=true&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=79FF97&bg_color=0D1117&area=true&theme=graywhite">
-               <!-- <img align="center" src="https://novatorem-kyzbk7wxl-6877sqkj18nrgl96aonlyuwll.vercel.app/api/spotify"> -->
-          </a>
-     </details>
-</h2>
+<details>
+     <summary> 
+          <h2>
+               <p>Work experience</p>
+          </h2>
+     </summary>
+     <h3>RigIntel</h2>
+     <p>Position: Python back-end-developer</p>
+     <p>Technology stack:</p>
+     <p>Python, PostgreSQL, MongoDB, SQL, HTML5, JavaScript, React, .ssh, Git, fast-api, Flask, HTML, ant design, Английский язык, JSON API, Rest-api, Sqlalchemy, Redis, jwt, async, Асинхронное программирование, разработка нагруженных систем, CSS, Адаптивная верстка, WebSocket, Клиент-серверная разработка, API, telegram, aio, aiohttp</p>
+     <p>15.06.2021 - по настоящий момент</p>
+</details>
+
+______
+
+<details>
+     <summary>
+          <h2>
+               More stats
+          </h2>
+     </summary>
+     <a align="center" href="https://github.com/Bloodies">
+          <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=Bloodies&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=79FF97&ring=002137&sideNums=79FF97&dates=FFFFFF&sideLabels=FFFFFF&fire=79FF97&currStreakLabel=FFFFFF">
+          <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Bloodies&hide_title=true&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=79FF97&bg_color=0D1117&area=true&theme=graywhite">
+          <!-- <img align="center" src="https://novatorem-kyzbk7wxl-6877sqkj18nrgl96aonlyuwll.vercel.app/api/spotify"> -->
+     </a>
+</details>
 
 <!-- [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu) -->
 
