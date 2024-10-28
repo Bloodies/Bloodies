@@ -6,8 +6,8 @@
 
 <a href="https://github.com/Bloodies">
      <div class="wrapper" style="width: 100%; height: 180px; overflow: hidden; position: relative;">
-          <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bloodies&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=-20,0D1117,002137&title_color=FFFFFF&text_color=FFFFFF&icon_color=79FF97&theme=graywhite&disable_animations=false">
-          <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodies&hide_title=true&hide_border=true&show_icons=true&bg_color=20,002137,0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&theme=graywhite&layout=compact">
+          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Bloodies&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=-20,0D1117,002137&title_color=FFFFFF&text_color=FFFFFF&icon_color=79FF97&theme=graywhite&disable_animations=false">
+          <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodies&hide_title=true&hide_border=true&show_icons=true&bg_color=20,002137,0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&theme=graywhite&layout=compact">
           <!-- color stack (git-dark-0D1117) (git-to-cream-0D1117-907578) (blue-to-viol-21D4FD-B721FF) -->
      </div>
 </a>
